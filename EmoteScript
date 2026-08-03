@@ -99,6 +99,9 @@ local FavoritedEmotes = {}
 -- ============================================================
 
 -- Examples (uncomment and edit to use):
+PinEmote("Victory Dance",       15506503658,  16)
+PinEmote("SpongeBob Imaginaaation 🌈",       18443268949,  3)
+PinEmote("Olivia Rodrigo Fall Back to Float",       15554016057,  44)
 PinEmote("Tommy - Archer",       13823339506,  17)
 PinEmote("Sol de Janeiro - Samba",          16276506814,  2)
 PinEmote("HUGO Let's Drive!",           17360720445,  1)
